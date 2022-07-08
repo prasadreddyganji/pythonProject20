@@ -1,4 +1,6 @@
 #This is the final code. This code is the combination of all  the codes written previouslyDisplaying the resultant letters on the board
+
+#import cv2 (before importing install it in pycharm using command pip3 install opencv-python
 import cv2
 import numpy as np
 import dlib
