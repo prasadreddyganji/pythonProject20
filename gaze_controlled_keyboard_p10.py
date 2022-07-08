@@ -242,7 +242,7 @@ while True:
                 if keyboard_selection_frames == 15:
                     select_keyboard_menu = False
                     right_sound.play()
-                    # Set frames count to 0 when keyboard selected
+                    # SetT frames count to 0 when keyboard selected
                     frames = 0
                     keyboard_selection_frames = 0
                 if keyboard_selected != last_keyboard_selected:
